@@ -236,6 +236,34 @@ h6 {
 */
 
 @media (min-width: 320px) and (max-width: 480px) {
-  /* CSS */
+    h1 {
+    font-size: 40px;
+  }
+  .Vaibhav{
+    font-size: 50px;
+  }
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 25px;
+  }
+
+  .mountain{
+    width: 300px;
+  }
+
+  .clouds {
+    width: 100px;
+  }
+  .cloud-1 {
+    position: relative;
+    left: -30px;
+  }
+  .cloud-2 {
+    position: relative;
+    right: -30px;
+  }
 }
 /* /Responsive Media Queries*/
